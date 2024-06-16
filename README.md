@@ -1,3 +1,5 @@
+[![Header](https://github.com/rawataman101/rawataman101/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Daniel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rawataman101&show_icons=true&include_all_commits=true&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Daniel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawataman101&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
