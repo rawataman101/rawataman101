@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6MbqMkWI1uMQC5ws/giphy.gif" style="width: 50px; height: 50px; border-radius: 50%; object-fit: cover; margin-top: 10px;" />
+  <img src="https://media.giphy.com/media/3o6MbqMkWI1uMQC5ws/giphy.gif" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-top: 10px;" />
 </p>
 <p align="center">
 <samp>
