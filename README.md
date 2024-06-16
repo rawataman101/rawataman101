@@ -17,7 +17,7 @@ Demonstrated capability in development, bug fixing, end-to-end testing, and main
 </p>
 <samp>
 <p align="center">
-<a href="mailto:paul@rawataman101@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/rawataman101/">Linkedin</a> | <a href="https://twitter.com/rawataman101">Twitter</a> | <a href="https://portfolio-cv-1-rawataman101.vercel.app/">Website</a>
+<a href="mailto:paul@rawataman101.net">Email</a> | <a href="https://www.linkedin.com/in/rawataman101/">Linkedin</a> | <a href="https://twitter.com/rawataman101">Twitter</a> | <a href="https://portfolio-cv-1-rawataman101.vercel.app/">Website</a>
 </p>
 
 <br/>
