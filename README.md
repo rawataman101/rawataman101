@@ -1,9 +1,9 @@
 </br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/rawataman101/azure-ai-assistant/master/img/active.gif" style="width: 50px; height: 50px; background: none; border: none; border-radius: 50%; object-fit: contain;" />
+<img src="https://raw.githubusercontent.com/rawataman101/azure-ai-assistant/master/img/active.gif" style="width: 60px; height: 60px; background: none; border: none; border-radius: 50%; object-fit: contain;" />
 </p>
 
- </br>
+</br>
 <p align="center">
 <samp>
 I'm Aman Rawat. An enthusiast with an inquisitive mind, creative and flexible computer savvy.
