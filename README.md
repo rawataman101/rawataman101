@@ -10,14 +10,14 @@ I'm Aman Rawat. An enthusiast with an inquisitive mind, creative and flexible co
 </samp>
 </br></br>
 <samp>
-Experienced Software Engineer with over 3 years of hands-on experience in solving, designing, developing, and maintaining web applications. Proficient in creating scalable applications using various technology stacks, with particular expertise in web technologies.</samp>
+Experienced Software Engineer with over 3 years of hands-on experience in solving, designing, developing, and maintaining web applications. Proficient in creating scalable applications using various technology stacks, with particular expertise in web technologies. Skilled in front-end and back-end development and adept at understanding client requirements to deliver projects accordingly.</samp>
 </br></br>
 <samp>
-Skilled in front-end and back-end development and adept at understanding client requirements to deliver projects accordingly. Demonstrated capability in development, bug fixing, end-to-end testing, and maintaining application integrity. Additionally, experienced in working with cloud technologies like AWS and Azure and integrating solutions with new technologies such as generative AI. Open to learning and upskilling in any tech-related area. Eager to apply acquired skills and expertise in a challenging role and foster continuous improvement.Experience</samp>
+Demonstrated capability in development, bug fixing, end-to-end testing, and maintaining application integrity. Additionally, experienced in working with cloud technologies like AWS and Azure and integrating solutions with new technologies such as generative AI. Open to learning and upskilling in any tech-related area. Eager to apply acquired skills and expertise in a challenging role and foster continuous improvement.</samp>
 </p>
 <samp>
 <p align="center">
-<a href="mailto:paul@rawataman101@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/rawataman101/">Linkedin</a> | <a href="https://twitter.com/rawataman101">Twitter</a> | <a href="https://paulrjohnson.net">Website</a>
+<a href="mailto:paul@rawataman101@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/rawataman101/">Linkedin</a> | <a href="https://twitter.com/rawataman101">Twitter</a> | <a href="https://portfolio-cv-1-rawataman101.vercel.app/">Website</a>
 </p>
 
 <br/>
