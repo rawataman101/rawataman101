@@ -1,6 +1,6 @@
 </br></br>
 <p align="center">
-<img src="[https://img.icons8.com/color/26/000000/github-2.png](https://github.com/rawataman101/azure-ai-assistant/blob/master/img/active.gif)"/>
+<img src="https://github.com/rawataman101/azure-ai-assistant/blob/master/img/active.gif"/>
 </p>
 
  </br>
